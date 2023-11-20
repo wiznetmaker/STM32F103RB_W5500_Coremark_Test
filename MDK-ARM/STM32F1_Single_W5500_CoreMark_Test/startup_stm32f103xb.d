@@ -1,0 +1,1 @@
+stm32f1_single_w5500_coremark_test\startup_stm32f103xb.o: startup_stm32f103xb.s
